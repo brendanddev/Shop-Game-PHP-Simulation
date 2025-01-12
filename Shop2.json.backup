@@ -1,0 +1,37 @@
+[
+    {
+        "id": 20,
+        "name": "Spectral Blade",
+        "description": "Only visible to ghosts. Deals 0 damage to the living.",
+        "price": 350,
+        "quantity": 1
+    },
+    {
+        "id": 21,
+        "name": "Shadow Cloak",
+        "description": "Perfect for blending in. Not so great for hiding in sunlight.",
+        "price": 1200,
+        "quantity": 2
+    },
+    {
+        "id": 22,
+        "name": "Potion of Regret",
+        "description": "Drink to instantly recall every embarrassing moment in your life.",
+        "price": 5,
+        "quantity": 50
+    },
+    {
+        "id": 23,
+        "name": "Enchanted Compass",
+        "description": "Points to the nearest bad decision.",
+        "price": 75,
+        "quantity": 7
+    },
+    {
+        "id": 24,
+        "name": "Golden Frying Pan",
+        "description": "Doubles as a weapon and a skillet. Beware hot surfaces.",
+        "price": 150,
+        "quantity": 3
+    }
+]

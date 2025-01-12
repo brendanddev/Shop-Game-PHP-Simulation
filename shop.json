@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Rusty Sword",
+        "description": "Barely holds together, but its better than nothing.",
+        "price": 10,
+        "quantity": 6
+    },
+    {
+        "id": 2,
+        "name": "Padded Tunic",
+        "description": "Provides just enough protection to give you false hope.",
+        "price": 40,
+        "quantity": 3
+    },
+    {
+        "id": 3,
+        "name": "Elixir of Minor Vitality",
+        "description": "Restores a little bit of health. Best before last week.",
+        "price": 20,
+        "quantity": 10
+    }
+]

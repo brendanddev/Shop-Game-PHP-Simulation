@@ -1,0 +1,23 @@
+[
+    {
+        "id": 10,
+        "name": "Obsidian Pickaxe",
+        "description": "Shatters through stone but not your will to live.",
+        "price": 500,
+        "quantity": 2
+    },
+    {
+        "id": 11,
+        "name": "Ashen Seeds",
+        "description": "Grow your very own haunted forest. Requires moonlight and despair.",
+        "price": 15,
+        "quantity": 25
+    },
+    {
+        "id": 12,
+        "name": "Flask of Endless Caffeine",
+        "description": "For adventurers who believe sleep is for the weak.",
+        "price": 250,
+        "quantity": 4
+    }
+]

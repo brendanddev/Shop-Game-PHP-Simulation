@@ -1,0 +1,58 @@
+[
+    {
+        "id": 10,
+        "name": "Phoenix Feather Quill",
+        "description": "Writes in flames. Requires fireproof parchment for use.",
+        "price": 50,
+        "quantity": 12
+    },
+    {
+        "id": 11,
+        "name": "Enchanted Sandglass",
+        "description": "Pauses time for 30 seconds when flipped. Single use.",
+        "price": 2000,
+        "quantity": 3
+    },
+    {
+        "id": 12,
+        "name": "Crystal Orb of Truth",
+        "description": "Reveals secrets. May also reveal more than you want to know.",
+        "price": 1200,
+        "quantity": 6
+    },
+    {
+        "id": 13,
+        "name": "Potion of Invisibility",
+        "description": "Turns the user invisible for 10 minutes. Warning: Clothes not included.",
+        "price": 500,
+        "quantity": 10
+    },
+    {
+        "id": 14,
+        "name": "Dragon Scale Shield",
+        "description": "Forged from ancient dragon scales. Virtually indestructible.",
+        "price": 5000,
+        "quantity": 2
+    },
+    {
+        "id": 15,
+        "name": "Boots of Swiftness",
+        "description": "Increases running speed by 50%. Perfect for outrunning trolls.",
+        "price": 800,
+        "quantity": 5
+    },
+    {
+        "id": 16,
+        "name": "Ring of Whispering Winds",
+        "description": "Allows the wearer to hear whispers carried by the wind. Limited range.",
+        "price": 750,
+        "quantity": 7
+    },
+    {
+        "id": 17,
+        "name": "Cloak of Shadows",
+        "description": "Renders the user almost invisible in dim light. Not effective in sunlight.",
+        "price": 2500,
+        "quantity": 4
+    }
+]
